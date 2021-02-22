@@ -6,7 +6,7 @@ layout: default
 Hello! My name is Aleks Rutins, and I _will not_ disclose any further personal information.
 
 ## Projects
-- [C19track](https://c19track.web.app) &mdash; [GitHub](https://github.com/aleksrutins/c19track) (COVID-19 tracker)
+- [C19track](https://c19track.vercel.app/) &mdash; [GitHub](https://github.com/aleksrutins/c19track) (COVID-19 tracker)
 - [Bettermake](https://github.com/aleksrutins/bettermake) (Build system)
 - [App](https://github.com/aleksrutins/app) (GitHub-based package manager)
 - [PyBundle](https://github.com/aleksrutins/pybundle) (Python project manager)
