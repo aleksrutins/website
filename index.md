@@ -4,3 +4,16 @@ layout: default
 ---
 # Aleks Rutins
 Hello! My name is Aleks Rutins, and I _will not_ disclose any further personal information.
+
+## Projects
+- [C19track](https://c19track.web.app) &mdash; [GitHub](https://github.com/aleksrutins/c19track) (COVID-19 tracker)
+- [Bettermake](https://github.com/aleksrutins/bettermake) (Build system)
+- [App](https://github.com/aleksrutins/app) (GitHub-based package manager)
+- [PyBundle](https://github.com/aleksrutins/pybundle) (Python project manager)
+- [Octopak](https://github.com/aleksrutins/octopak) (_Another_ GitHub-based package manager)
+- [Hubcap](https://github.com/aleksrutins/hubcap) (_Yet another_ GitHub-based package manager &ndash; this is getting ridiculous)
+- [Snippeteer](https://github.com/aleksrutins/snipeteer) (A snippet embedding tool)
+- [Many more](https://github.com/aleksrutins?tab=repositories)
+
+## Other links
+- [Art](https://art.aleks.rutins.com)
