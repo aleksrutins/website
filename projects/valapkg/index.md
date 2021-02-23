@@ -1,7 +1,6 @@
 ---
-title: Valapkg | Aleks Rutins
+title: Valapkg
 layout: default
 ---
-[Home](/)
 # Valapkg
 Valapkg is a package manager for Vala projects.

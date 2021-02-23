@@ -1,1 +1,4 @@
-remote_theme: riggraz/no-style-please
+theme: minima
+logo: /assets/aleks.jpg
+header_pages: [index.md, blog.md, projects.md]
+title: Aleks Rutins
