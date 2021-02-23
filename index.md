@@ -3,7 +3,7 @@ title: Aleks Rutins
 layout: default
 ---
 # Aleks Rutins
-Hello! My name is Aleks Rutins, and I _will not_ disclose any further personal information.
+Hello! My name is Aleks Rutins, and I enjoy coding.
 
 ## Projects
 - [C19track](https://c19track.vercel.app/) &mdash; [GitHub](https://github.com/aleksrutins/c19track) (COVID-19 tracker)
