@@ -13,7 +13,7 @@ Hello! My name is Aleks Rutins, and I enjoy coding.
 - [Octopak](https://github.com/aleksrutins/octopak) (_Another_ GitHub-based package manager)
 - [Hubcap](https://github.com/aleksrutins/hubcap) (_Yet another_ GitHub-based package manager &ndash; this is getting ridiculous)
 - [Snippeteer](https://github.com/aleksrutins/snipeteer) (A snippet embedding tool)
-- [Valapkg](/projects/valapkg) (A WIP package manager for Vala that is &mdash; _wait for it_ &mdash; GitHub-based.)
+- [Valapkg](https://aleks.rutins.com/projects/valapkg) (A WIP package manager for Vala that is &mdash; _wait for it_ &mdash; GitHub-based.)
 - [Many more](https://github.com/aleksrutins?tab=repositories)
 
 ## Other links
