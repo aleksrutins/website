@@ -2,3 +2,5 @@ theme: minima
 logo: /assets/aleks.jpg
 header_pages: [index.md, blog.md, projects.md]
 title: Aleks Rutins
+plugins:
+  - jekyll-feed
