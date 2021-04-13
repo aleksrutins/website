@@ -54,9 +54,9 @@
                         },
                         "required": ["name", "files"]
                     }
-                },
-                "required": ["pkgs", "files", "targets"]
-            }
+                }
+            },
+            "required": ["pkgs", "files", "targets"]
         }
     }
 }
